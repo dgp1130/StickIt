@@ -1,0 +1,9 @@
+{
+    "name": "Stick It",
+    "version": "0.1",
+    "description": "Add sticky notes directly to webpages.",
+    "manifest_version": 2,
+    "browser_action": {
+      "default_popup": "index.html"
+    }
+}
