@@ -8,7 +8,7 @@
     },
     "background": {
         "scripts": [
-            "background-es2015.js"
+            "background.js"
         ]
     }
 }
