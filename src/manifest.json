@@ -7,10 +7,11 @@
       "default_title": "Stick It!"
     },
     "background": {
-        "scripts": [
-            "background.js",
-            "runtime.js"
-        ]
+      "scripts": [
+        "background.js",
+        "vendor.js",
+        "runtime.js"
+      ]
     },
     "permissions": [
       "https://*/*",
